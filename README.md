@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/f06612bd0bed070709941a76edb69f3e/s/master "wercker status")](https://app.wercker.com/project/byKey/f06612bd0bed070709941a76edb69f3e)
+
 About
 =====
 
